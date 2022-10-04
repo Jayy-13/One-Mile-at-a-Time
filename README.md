@@ -1,11 +1,11 @@
-# **Travelogue**
+# **One Mile at a Time**
 
 
 
 ## About & Features
 
 
-**Travelogue** is a full-stack single-page travel blog site.
+**One Mile at a Time** is a full-stack single-page travel blog site.
 
 ### Front-end Technology : 
 - **React, React-Router-Dom**
@@ -19,4 +19,4 @@
 - **Express**
 - **MongoDB**
 
-### `Website Link :` [https://travelogue-e7025.web.app/](https://travelogue-e7025.web.app/)
+### `Website Link :` 
